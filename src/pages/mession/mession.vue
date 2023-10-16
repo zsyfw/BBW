@@ -3,7 +3,7 @@
 </script>
 
 <template>
-  <view class="category">category</view>
+  <view class="mession">mession</view>
 </template>
 
 <style lang="scss">

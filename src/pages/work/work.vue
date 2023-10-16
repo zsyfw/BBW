@@ -3,7 +3,7 @@
 </script>
 
 <template>
-  <view class="cart">cart</view>
+  <view class="work">任务</view>
 </template>
 
 <style lang="scss">

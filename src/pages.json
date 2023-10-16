@@ -21,13 +21,13 @@
       }
     },
     {
-      "path": "pages/cart/cart",
+      "path": "pages/mession/mession",
       "style": {
         "navigationBarTitleText": "消息"
       }
     },
     {
-      "path": "pages/category/category",
+      "path": "pages/work/work",
       "style": {
         "navigationBarTitleText": "任务"
       }
@@ -60,13 +60,13 @@
       },
       {
         "text": "任务",
-        "pagePath": "pages/category/category",
+        "pagePath": "pages/work/work",
         "iconPath": "static/tabs/work.png",
         "selectedIconPath": "static/tabs/selectwork.png"
       },
       {
         "text": "消息",
-        "pagePath": "pages/cart/cart",
+        "pagePath": "pages/mession/mession",
         "iconPath": "static/tabs/news_normal.png",
         "selectedIconPath": "static/tabs/news_pressed.png"
       },
